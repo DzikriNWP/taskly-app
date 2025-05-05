@@ -18,3 +18,24 @@ Taskly is a mobile app designed to help users manage their tasks effectively.
 | Main Screen | Add Task | Task List | Completed Tasks |
 |-------------|----------|-----------|-----------------|
 | *(Add screenshots here if available, e.g., screenshots/main.png)* |
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+    ```bash
+    git clone https://github.com/yourusername/taskly-app.git
+    cd taskly-app
+    ```
+
+2. **Install dependencies**
+    ```bash
+    flutter pub get
+    ```
+
+3. **Run the app**
+    ```bash
+    flutter run
+    ```
+
