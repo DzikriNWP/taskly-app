@@ -13,14 +13,6 @@ Taskly is a mobile app designed to help users manage their tasks effectively.
 
 ---
 
-## 📱 Screenshots
-
-| Main Screen | Add Task | Task List | Completed Tasks |
-|-------------|----------|-----------|-----------------|
-| *(Add screenshots here if available, e.g., screenshots/main.png)* |
-
----
-
 ## 🚀 Getting Started
 
 1. **Clone the repository**
